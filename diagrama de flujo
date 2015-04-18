@@ -1,0 +1,31 @@
+me paro de mi asiento
+camino al refrigerador de mi casa
+abro la puerta del refrigerador
+miro hacia adentro del refrigerador
+	hay una botella de agua? si o no?
+	si sigue en linea numero 9
+	no sigue en linea numero 22
+
+si
+tomo la botella con una mano
+tomo la tapa con la otra mano
+giro la tapa aplicando fuerzas opuestas con las manos
+	logro abrir la botella? si o no?
+	si sigue en linea numero x
+	no sigue en linea numero x
+
+si Fin
+
+no vuelvo a linea 12 hasta abrir, con un maximo de 5 veces
+6ta vez fin
+
+no
+voy a buscar en la despensa
+	hay botella de agua? si o no?
+	si pasa a linea 9
+	no = fin
+
+
+
+
+
